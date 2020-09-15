@@ -1,3 +1,3 @@
 exports.showHelp = function(){
-    console.log("NodeStart v0.0.1\n\nHelp Menu:\nUse nodestart create <project name> to create a project")
+    console.log("\nBoilNode v0.0.1\n\nHelp Menu:\n- Use boilnode create <project name> to create a project\n")
 }
