@@ -1,6 +1,6 @@
 # BoilNode
 
-Boilnode creates a super cute boilerplate code for express app. It comes with express, body-parser and nodemon (as dev dependency) installed out of the box. It just supports Windows as of now, but I've plans to add more features so stay tuned!
+Boilnode creates a super cute boilerplate code for express app. It comes with express, body-parser and nodemon (as dev dependency) installed out of the box. *It just supports Windows as of now*, but I've plans to add more features so stay tuned!
 
 ## How to install BoilNode?
 
