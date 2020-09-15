@@ -11,7 +11,7 @@ After installing, just run boilnode in command promt or powershell and it will s
 ## How to use BoilNode?
 
 Using boilnode is simple, just run:
-boilnode create <name of the project>
+boilnode create <-name of the project->
 
 and it would create a directory with all the necessary files
 
